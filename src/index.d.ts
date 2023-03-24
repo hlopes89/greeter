@@ -1,1 +1,1 @@
-declare function sayHello(name: string): string;
+export default function sayHello(name: string): string;
